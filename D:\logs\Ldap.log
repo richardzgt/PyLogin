@@ -1,0 +1,18 @@
+2017-06-13 13:26:03,227- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-13 13:27:24,009- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-13 13:27:24,707- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-13 13:27:47,400- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-13 13:28:03,688- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-13 13:28:56,354- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-13 13:32:34,851- WARNING - ldap_search_dn user: gaotao {'info': 'invalid DN', 'desc': 'Invalid DN syntax'}
+2017-06-13 13:32:34,851- INFO - target_cn: None
+2017-06-13 13:32:34,852- ERROR - ldap_get_vaild user: gaotao argument 1 must be string, not None
+2017-06-13 13:35:22,401- INFO - Manager bind success!
+2017-06-13 13:35:22,404- INFO - target_cn: None
+2017-06-13 13:35:22,404- ERROR - ldap_get_vaild user: gaotao argument 1 must be string, not None
+2017-06-13 13:35:46,855- INFO - user:ldapuser1 check user info success:{'username': 'ldapuser1', 'home': '/home/ldapuser1', 'uid': '502'}
+2017-06-14 14:11:16,168- WARNING - ldap_get_user user: ldapuser1 {'desc': 'No such object'}
+2017-06-14 14:11:25,005- WARNING - ldap_get_user user: ldapuser1 {'desc': 'No such object'}
+2017-06-14 14:11:37,195- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-14 14:11:39,789- WARNING - ldap_get_user user: gaotao {'desc': 'No such object'}
+2017-06-14 14:12:23,397- WARNING - ldap_search_dn user: zgt {'desc': 'Invalid credentials'}

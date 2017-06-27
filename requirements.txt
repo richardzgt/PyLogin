@@ -1,0 +1,5 @@
+#/usr/include/openldap24
+python-ldap==2.3.13
+MySQL-python==1.2.5
+pexpect==3.1
+
